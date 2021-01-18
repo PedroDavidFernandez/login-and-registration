@@ -1,1 +1,1 @@
-# login-and-registration
+# Login and registration AmigosCode tutorial.
