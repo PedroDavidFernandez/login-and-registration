@@ -26,7 +26,7 @@ datasource:
 ```
 
 ## Requests
-To test this app, the following POST request can be sent:
+To test this app, the following POST request can be sent to the following endpoint: localhost:8080/api/v1/registration
 ```
 {
     "firstName": "Name",
